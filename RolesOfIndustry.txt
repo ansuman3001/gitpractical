@@ -1,0 +1,7 @@
+Roles in sw industry
+
+
+Project Manager  - Get & Plan Business requirement
+Developers  -code
+Test Engineers -Test
+IT Operations - Development
